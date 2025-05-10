@@ -1,0 +1,50 @@
+{
+  "business_info": "XYZ Salon is a luxury beauty and wellness salon located in Downtown LA. We offer a wide range of services including haircuts, hair coloring, bridal makeup, facials, manicures, pedicures, waxing, threading, and spa treatments. Our experienced stylists and estheticians use top-quality, cruelty-free products to deliver exceptional service in a relaxing environment.",
+  "faqs": {
+    "what are your working hours": "We are open daily from 9am to 7pm, including weekends.",
+    "where are you located": "We are located at 123 Main Street, Downtown Los Angeles, CA.",
+    "do you offer bridal makeup": "Yes, we specialize in bridal makeup and full wedding packages including hair, makeup, and pre-bridal treatments.",
+    "do you accept walk-ins": "Yes, we accept walk-ins, but we recommend scheduling an appointment to avoid waiting times.",
+    "how can i book an appointment": "You can book an appointment by calling us at (555) 123-4567 or through our website at www.xyzsalon.com.",
+    "do you offer men's grooming services": "Yes, we provide men's haircuts, beard styling, facials, and grooming packages.",
+    "do you offer kids haircut": "Yes, we offer gentle and stylish haircuts for children of all ages.",
+    "what payment methods do you accept": "We accept cash, credit/debit cards, and all major digital payment apps.",
+    "is there parking available": "Yes, we have free customer parking at the back of the salon.",
+    "what is your cancellation policy": "Please cancel at least 24 hours in advance. Late cancellations may be subject to a fee.",
+    "do you provide home service": "Currently, we offer home services only for bridal makeup and large group bookings. Please contact us for more details.",
+    "do you use organic or cruelty free products": "Yes, we prioritize using organic, natural, and cruelty-free products in our services.",
+    "how often should i get a facial": "We recommend getting a facial once every 4 to 6 weeks depending on your skin type.",
+    "what brands do you use": "We use premium brands like L'Oréal, Schwarzkopf, MAC, O3+, and Forest Essentials.",
+    "do you offer hair spa treatments": "Yes, we provide deep conditioning and rejuvenating hair spa treatments for all hair types.",
+    "how long does a typical haircut take": "A standard haircut usually takes about 30 to 45 minutes depending on the style.",
+    "can i bring my own products": "Yes, if you prefer to use your own products for any service, you are welcome to bring them.",
+    "do you offer group bookings or party packages": "Yes, we offer group bookings for bridal parties, birthdays, and special events with customized packages.",
+    "is the salon wheelchair accessible": "Yes, our salon is fully accessible with ramps and wide entryways for wheelchairs.",
+    "do you offer consultation before service": "Absolutely! Our experts provide free consultations to help you choose the right treatment for your needs.",
+    "what covid precautions do you follow": "We follow strict sanitation protocols, including mask usage, temperature checks, and disinfecting all tools and stations after every use.",
+    "what type of haircut u provide ?": {
+      "answer": "We have many types of hair cut but we also provide as per the customer needs",
+      "source": "learned"
+    },
+    "what are your charges": {
+      "answer": "we provide custom charges as per the client requierment ",
+      "source": "learned"
+    },
+    "do you provide big mac burger": {
+      "answer": "we do not provide the burger",
+      "source": "learned"
+    },
+    "do your provide horse riding": {
+      "answer": "no we dont but we can provide your horse a makeover",
+      "source": "learned"
+    },
+    "do your provide haircut to dogs": {
+      "answer": "no we dont ",
+      "source": "learned"
+    },
+    "do your salon provide a babysitter": {
+      "answer": "yes we can provide that ",
+      "source": "learned"
+    }
+  }
+}
