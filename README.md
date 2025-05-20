@@ -5,6 +5,7 @@ A real-time AI-driven customer service system that escalates unknown queries to 
 
 ---
 
+
 ## 📦 Project Structure
 human_loop_ai_project/
 ├── agent/ # AI Agent (LiveKit + Puppeteer)
@@ -17,6 +18,8 @@ human_loop_ai_project/
 │ │ ├── App.js
 │ │ └── firebase.js
 ├── token_generator/ # (Optional) LiveKit Token generator
+
+
 
 ---
 
