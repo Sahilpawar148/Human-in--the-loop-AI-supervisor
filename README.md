@@ -1,4 +1,3 @@
-# Human-in--the-loop-AI-supervisor
 # 🤖 Human-in-the-Loop AI Supervisor
 
 A real-time AI-driven customer service system that escalates unknown queries to a human supervisor. Built using **Node.js**, **React**, **Firebase**, and **LiveKit**, it simulates a voice assistant that can handle salon-related queries, bookings, and follow-ups.
@@ -7,6 +6,7 @@ A real-time AI-driven customer service system that escalates unknown queries to 
 
 
 ## 📦 Project Structure
+
 human_loop_ai_project/
 ├── agent/ # AI Agent (LiveKit + Puppeteer)
 │ ├── agent.js
@@ -18,6 +18,7 @@ human_loop_ai_project/
 │ │ ├── App.js
 │ │ └── firebase.js
 ├── token_generator/ # (Optional) LiveKit Token generator
+
 
 
 
